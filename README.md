@@ -1,7 +1,7 @@
 # Used Cars: Simple Linear Regression 
 
-## Project Overview
-This project applies Simple Linear Regression to predict the market price of a used car based on its mileage. A core focus of this exercise is practical data wrangling—specifically using regular expressions (regex) to clean string-based numerical data before training the machine learning model.
+## Overview
+This activity applies Simple Linear Regression to predict the market price of a used car based on its mileage. A core focus of this exercise is practical data wrangling—specifically using regular expressions (regex) to clean string-based numerical data before training the machine learning model.
 
 ## Dataset
 * **Source File:** `used_cars.csv`
