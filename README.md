@@ -29,6 +29,6 @@ You can view and run this notebook instantly in your browser using Google Colab:
 *(Note: To run the notebook in Colab, ensure you upload the `used_cars.csv` dataset to the session storage or update the pandas read path to the raw GitHub URL).*
 
 ### Option 2: Run Locally
-1. Clone this repository: `git clone https://github.com/ronanpatrick/used-cars-linear-regression.git`
+1. Clone this repository: `git clone https://github.com/ronanpatrick/linear-regression-used-cars.git`
 2. Install the required libraries: `pip install pandas scikit-learn matplotlib`
 3. Open the `.ipynb` file in Jupyter Notebook or VS Code and run all cells.
