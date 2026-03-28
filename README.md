@@ -24,7 +24,7 @@ This project applies Simple Linear Regression to predict the market price of a u
 
 ### Option 1: Run in Cloud (Recommended)
 You can view and run this notebook instantly in your browser using Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/linear-regression-used-cars/blob/main/LINEAR_REGRESSION_used-cars.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/linear-regression-used-cars/blob/main/LINEAR_REGRESSION_used_cars.ipynb)
 
 *(Note: To run the notebook in Colab, ensure you upload the `used_cars.csv` dataset to the session storage or update the pandas read path to the raw GitHub URL).*
 
